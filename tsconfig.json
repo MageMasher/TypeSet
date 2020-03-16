@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "sourceMap": true,
+    "allowJs": true,
+    "checkJs": true,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noStrictGenericChecks": false,
+    "outDir": "./built",
+    "strict": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
